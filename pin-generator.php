@@ -1,4 +1,6 @@
 <?php
+// Author: Ewere Diagboya
+
 mysql_connect("localhost","root","");
 
 // GUID Generator
